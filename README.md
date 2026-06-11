@@ -267,7 +267,7 @@ LIMIT 10;
 ```
 FUTURE_DS_01/
 │
-├── README.md                        ← Project documentation (this file)
+├── README.md                        ← Project documentation
 ├── Sample_-_Superstore.csv          ← Raw dataset
 └── superstore_sales_anlysis.sql     ← All SQL queries for the analysis
 ```
